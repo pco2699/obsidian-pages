@@ -1,38 +1,67 @@
 ---
-title: Welcome to My Site
-date: 2025-08-20
+title: 二郎製麺会
+date: 2025-08-25
 ---
 
-# Welcome to My Static Site
 
-This is a sample homepage generated from a Markdown file. You can write content using standard Markdown syntax.
+## コンセプト
 
-## Features
+### 「製麺を楽しむ」
 
-- **Markdown to HTML conversion** with syntax highlighting
-- **Front matter support** for metadata
-- **Responsive design** that looks great on all devices
-- **Code highlighting** powered by highlight.js
+前回は二郎を完全再現することを目的に、味やボリュームなどを再現することにこだわったが今回はそうではなく、あくまで製麺を楽しむことを目的とする。そのため...
 
-## Code Example
+- スープはスペアリブと豚バラブロックを使った簡易的なもの
+- ボリュームは少なめ（小 2~3杯程度をみんなで分ける想定、試食会的）
 
-Here's some JavaScript code:
+といったコンセプトとする。製麺自体も量を作るのが非常に大変なため。
+そのため、製麺中や食事も軽食とともに楽しむイメージで。
 
-```javascript
-function greet(name) {
-    return `Hello, ${name}!`;
-}
+## 参加人数
+8人(内2人乳幼児)
 
-console.log(greet('World'));
-```
+## スケジュール
 
-## Getting Started
+- 9:00: 買い出し
+- 10:00: 事前にスープ調理開始
+- 11:00: 集合
+- 12:00: 製麺開始
+- 14:00: 製麺完了・調理開始
+- 15:00: 製麺試食
+- 18:00: 解散 
 
-1. Add your Markdown files to the `src/` directory
-2. Run `npm run build` to generate the static site
-3. Use `npm run serve` to preview locally
-4. Deploy the `dist/` folder to your web hosting
+## 材料
 
-> This is a blockquote. You can use it to highlight important information.
+やさい
+- もやし
 
-Happy writing!
+スープ・豚
+- 豚バラブロック 2lb
+- 豚スペアリブ 1lb
+- にんにく一玉
+- 醤油 400cc
+- みりん 140cc
+- ネギの頭
+
+麺
+- 小麦粉 500g
+-  塩 5g
+- かんすい 5g
+- 水 160g
+- （バックアップ）リングイネ 500g
+
+調理機材 
+- ジップロック大
+
+その他
+- プラ製とかの小さい食事用どんぶり
+- 割箸
+
+## 買い出し
+
+製麺に関するものは調達済み
+
+買い出しが必要なものは以下
+- 二郎の食材係 1
+- おやつ・軽食係 1
+- 飲み物・お酒係 1
+
