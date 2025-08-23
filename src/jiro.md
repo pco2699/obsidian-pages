@@ -20,6 +20,10 @@ date: 2025-08-25
 
 8人(内2人乳幼児)
 
+## 場所
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6325.978821325805!2d-122.26355482289154!3d37.555313272041616!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808f992a36877c7f%3A0xa743926bac82d3e0!2s899%20Bounty%20Dr%2C%20Foster%20City%2C%20CA%2094404!5e0!3m2!1sja!2sus!4v1755910176078!5m2!1sja!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
 ## スケジュール
 
 - 9:00: 買い出し
@@ -62,7 +66,7 @@ date: 2025-08-25
 麺・調理機材は調達済み
 
 買い出しが必要なものは以下
-- 二郎の食材係 1
+- 二郎の食材係(上記　麺・調理機材以外を購入) 1
 - おやつ・軽食係 1
 - 飲み物・お酒係 1
 
