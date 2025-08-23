@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>About Me</title>
+    <title>Welcome to My Site</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.9.0/styles/github.min.css">
     <style>
         body {
@@ -68,19 +68,34 @@
         <a href="/">Home</a>
     </nav>
     <div class="meta">Published: Wed Aug 20 2025 00:00:00 GMT+0000 (Coordinated Universal Time)</div>
-    <h1>About Me</h1>
-<p>This is a sample about page to demonstrate how multiple pages work in this static site generator.</p>
-<h2>What I Do</h2>
-<p>I create content using Markdown files that get automatically converted to beautiful HTML pages.</p>
-<h2>Technologies Used</h2>
+    <h1>Welcome to My Static Site</h1>
+<p>This is a sample homepage generated from a Markdown file. You can write content using standard Markdown syntax.</p>
+<h2>Features</h2>
 <ul>
-<li>Node.js for the build system</li>
-<li>markdown-it for parsing Markdown</li>
-<li>highlight.js for code syntax highlighting</li>
-<li>gray-matter for front matter parsing</li>
+<li><strong>Markdown to HTML conversion</strong> with syntax highlighting</li>
+<li><strong>Front matter support</strong> for metadata</li>
+<li><strong>Responsive design</strong> that looks great on all devices</li>
+<li><strong>Code highlighting</strong> powered by highlight.js</li>
 </ul>
-<h2>Contact</h2>
-<p>Feel free to reach out if you have any questions about this static site generator!</p>
+<h2>Code Example</h2>
+<p>Here’s some JavaScript code:</p>
+<pre><code class="language-javascript"><span class="hljs-keyword">function</span> <span class="hljs-title function_">greet</span>(<span class="hljs-params">name</span>) {
+    <span class="hljs-keyword">return</span> <span class="hljs-string">`Hello, <span class="hljs-subst">${name}</span>!`</span>;
+}
+
+<span class="hljs-variable language_">console</span>.<span class="hljs-title function_">log</span>(<span class="hljs-title function_">greet</span>(<span class="hljs-string">&#x27;World&#x27;</span>));
+</code></pre>
+<h2>Getting Started</h2>
+<ol>
+<li>Add your Markdown files to the <code>src/</code> directory</li>
+<li>Run <code>npm run build</code> to generate the static site</li>
+<li>Use <code>npm run serve</code> to preview locally</li>
+<li>Deploy the <code>dist/</code> folder to your web hosting</li>
+</ol>
+<blockquote>
+<p>This is a blockquote. You can use it to highlight important information.</p>
+</blockquote>
+<p>Happy writing!</p>
 
 </body>
 </html>
